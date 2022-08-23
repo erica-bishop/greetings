@@ -10,7 +10,7 @@
 #' @examples say_aloha("Allison")
 say_aloha <- function(name) {
 
-  message <- paste("Aloha,",
+  message <- paste("Poop,",
                    name,
                    emo::ji("palm_tree"),
                    emo::ji("sunny"),
